@@ -13,10 +13,50 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://z.moatads.com/addthismoatframe568911941483/moatframe.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
  <!-- -----STYLE-GJM----->
 
+<!-- ---start of Javascript for search bar --- GJM -->
 <style>
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* ---End of Javascript for search bar --- GJM */
+
+
 body {
 background-color: rgb(50, 218, 240);
 }
@@ -30,7 +70,7 @@ h2 {
   color: rgb(22, 22, 20);
 }
 h3 {
-  color: rgb(22, 22, 20); 
+  color: rgb(22, 22, 20);
 }
 h4 {
   color: rgb(22, 22, 20);
@@ -43,6 +83,7 @@ h6 {
   flex-wrap: wrap;
   padding: 0 4px;
 }
+
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
@@ -60,6 +101,12 @@ element.style {
   font: inherit;
   vertical-align: initial;
 }
+
+ /* --JS for search Bar GJM */
+ 
+
+ /* --- End of JS for search Bar GJM */
+
 </style>
 
 </head>
@@ -83,30 +130,110 @@ element.style {
                 <a class="nav-link" href="2_factor_id_recomendations.html">2 Factor ID Recomendations<span class="sr-only">(current)</span></a>
             </ul>
           </div>
-      </nav>
-  </div>
+    </nav>
+	</div>
+<br>
+<br>
+<br>
 <div class="container" class="text-left">
 	<div class="container">
 		<div class="jumbotron bg-info bg-info">
-		  <h2 class="display-10"><strong>I used two CSV files from www.kaggle.com and merged them together to make a much larger Data Set. Once combined I extracted the information:</strong></h2>
-      <br>
-      <p><strong><a href="https://www.kaggle.com/alukosayoenoch/cyber-security-breaches-data">Link to (Cyber Security Breaches 1997-2013) CSV from Kaggle</a> - </strong></p>
-      <p><strong><a href="https://www.kaggle.com/rileyrinidad/cyber-attacks-20102018">Link to (Cyber Attacks 2010-2018) CSV from Kaggle</a> - </strong></p>
-    </div>
-  </div> 
+		  <h2 class="display-7"><strong>This is a list of Summarys from the Two CSV files:</strong></h2>
+		</div>
+	</div>
+</div>
+<br>
+ 
+  <!-- ---Start Search Bar -->
+
+</head>
+<h2>Search through the dates:</h2>
+<div class="container" class="text-left">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for dates.." title="Type in a Date">
+
+<table id="myTable">
+  <tr class="header">
+    <th style="width:60%;">Name</th>
+    <th style="width:40%;">Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Berglunds snabbkop</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Koniglich Essen</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>North/South</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Paris specialites</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>one</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>one two</td>
+    <td>Sweden</td>
+  </tr>
+</table>
+
 </div>
 
-<div class="container">
-<p><h2><strong>1) Desktop and Laptop Security Breaches are a large portion of the affected area</strong></h2></p>
-<p><h2><strong>2) In the Pie Cart you can see that the largest form of data breach is by "HACKING"</strong></h2></p>
-<p><h2><strong>3) Time will be saved in the IT department. The numbers add up.</strong></h2></p>
-</div>
-
-<!-- ---------------- TABLE ------------ GJM -->
-<br>
-<br>
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
 
 </body>
+
+
+<!-- ---------------------------- GJM -->
+
+<!-- ---------------------------- GJM -->
+<br>
+<br>
+
+
+
+
+
 <br>
 <div class="container">
 <p><center><img src="images/work_laptop_coffee.jpg" alt="" width="320" height="210"></center></p>

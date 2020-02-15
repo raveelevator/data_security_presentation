@@ -1,0 +1,1465 @@
+[
+  {
+    "Entity": "AerServ (subsidiary of InMobi)",
+    "Year": 2018,
+    "Records": 75000,
+    "Organization Type": "Advertising",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Bethesda Game Studios",
+    "Year": 2018,
+    "Records": "",
+    "Organization Type": "Gaming",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "BlankMediaGames",
+    "Year": 2018,
+    "Records": 7633234,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "BMO and Simplii",
+    "Year": 2018,
+    "Records": 90000,
+    "Organization Type": "Banking",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "British Airways",
+    "Year": 2018,
+    "Records": 380000,
+    "Organization Type": "Transport",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Cathay Pacific Airways",
+    "Year": 2018,
+    "Records": 9400000,
+    "Organization Type": "Transport",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Centers for Medicare & Medicaid Services",
+    "Year": 2018,
+    "Records": 75000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2018,
+    "Records": 50000000,
+    "Organization Type": "Social Network",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Google Plus",
+    "Year": 2018,
+    "Records": 500000,
+    "Organization Type": "Social Network",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Marriott International",
+    "Year": 2018,
+    "Records": 500000000,
+    "Organization Type": "Hotel",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "MyHeritage",
+    "Year": 2018,
+    "Records": 92283889,
+    "Organization Type": "Genealogy",
+    "Method": "unknown"
+  },
+  {
+    "Entity": "Orbitz",
+    "Year": 2018,
+    "Records": 880000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Popsugar",
+    "Year": 2018,
+    "Records": 123857,
+    "Organization Type": "Fashion",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Quora",
+    "Year": 2018,
+    "Records": 100000000,
+    "Organization Type": "Question & Answer",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Reddit",
+    "Year": 2018,
+    "Records": "unknown",
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "SingHealth",
+    "Year": 2018,
+    "Records": 1500000,
+    "Organization Type": "Government, Database",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Ticketfly (subsidiary of Eventbrite)",
+    "Year": 2018,
+    "Records": 26151608,
+    "Organization Type": "Ticket Distribution",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Typeform",
+    "Year": 2018,
+    "Records": "unknown",
+    "Organization Type": "Tech",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Under Armour",
+    "Year": 2018,
+    "Records": 150000000,
+    "Organization Type": "Consumer Goods",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Wordpress",
+    "Year": 2018,
+    "Records": "",
+    "Organization Type": "",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Defense Integrated Data Center (South Korea)",
+    "Year": 2017,
+    "Records": "235 GB",
+    "Organization Type": "Military",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Deloitte",
+    "Year": 2017,
+    "Records": "",
+    "Organization Type": "Consulting, Accounting",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Erie County Medical Center",
+    "Year": 2017,
+    "Records": "unknown",
+    "Organization Type": "Healthcare",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Equifax",
+    "Year": 2017,
+    "Records": 143000000,
+    "Organization Type": "Financial, Credit Reporting",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Grozio Chirurgija",
+    "Year": 2017,
+    "Records": 25000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Heathrow Airport",
+    "Year": 2017,
+    "Records": "2.5GB",
+    "Organization Type": "Transport",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Taringa!",
+    "Year": 2017,
+    "Records": 28722877,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Uber",
+    "Year": 2017,
+    "Records": 57000000,
+    "Organization Type": "Transport",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "21st Century Oncology",
+    "Year": 2016,
+    "Records": 2200000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Apple Health Medicaid",
+    "Year": 2016,
+    "Records": 91000,
+    "Organization Type": "Healthcare",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Central Coast Credit Union",
+    "Year": 2016,
+    "Records": 60000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Philippines Commission on Elections",
+    "Year": 2016,
+    "Records": 55000000,
+    "Organization Type": "Government",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Cox Communications",
+    "Year": 2016,
+    "Records": 40000,
+    "Organization Type": "Telecoms",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Democratic National Committee",
+    "Year": 2016,
+    "Records": 19252,
+    "Organization Type": "Political",
+    "Method": ""
+  },
+  {
+    "Entity": "US Department of Homeland Security",
+    "Year": 2016,
+    "Records": 30000,
+    "Organization Type": "Government",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "EyeWire",
+    "Year": 2016,
+    "Records": "unknown",
+    "Organization Type": "Tech",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "Friend Finder Networks",
+    "Year": 2016,
+    "Records": 412214295,
+    "Organization Type": "Web",
+    "Method": "poor security / hacked"
+  },
+  {
+    "Entity": "Gyft",
+    "Year": 2016,
+    "Records": "unknown",
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Inuvik hospital",
+    "Year": 2016,
+    "Records": 6700,
+    "Organization Type": "Healthcare",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "KM.RU",
+    "Year": 2016,
+    "Records": 1500000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Nival Networks",
+    "Year": 2016,
+    "Records": 1500000,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Ofcom",
+    "Year": 2016,
+    "Records": "unknown",
+    "Organization Type": "Telecom",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "Rosen Hotels",
+    "Year": 2016,
+    "Records": "unknown",
+    "Organization Type": "Hotel",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Taobao",
+    "Year": 2016,
+    "Records": 20000000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "TaxSlayer.com",
+    "Year": 2016,
+    "Records": "unknown",
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "University of California, Berkeley",
+    "Year": 2016,
+    "Records": 80000,
+    "Organization Type": "Academic",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "University of Central Florida",
+    "Year": 2016,
+    "Records": 63000,
+    "Organization Type": "Academic",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Verizon Communications",
+    "Year": 2016,
+    "Records": 1500000,
+    "Organization Type": "Telecoms",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Weebly",
+    "Year": 2016,
+    "Records": 43430316,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Ancestry.com",
+    "Year": 2015,
+    "Records": 300000,
+    "Organization Type": "Web",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Anthem Inc.",
+    "Year": 2015,
+    "Records": 80000000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Ashley Madison",
+    "Year": 2015,
+    "Records": 32000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Australian Immigration Department",
+    "Year": 2015,
+    "Records": "G20 world leaders",
+    "Organization Type": "Government",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Bailey's Inc.",
+    "Year": 2015,
+    "Records": 250000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "British Airways",
+    "Year": 2015,
+    "Records": "tens of thousands",
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "CareFirst BlueCross Blue Shield - Maryland",
+    "Year": 2015,
+    "Records": 1100000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "CVS",
+    "Year": 2015,
+    "Records": "millions",
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Excellus BlueCross BlueShield",
+    "Year": 2015,
+    "Records": 10000000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Experian - T-Mobile US",
+    "Year": 2015,
+    "Records": 15000000,
+    "Organization Type": "Telecoms",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Hilton Hotels",
+    "Year": 2015,
+    "Records": "unknown",
+    "Organization Type": "Hotel",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Hyatt Hotels",
+    "Year": 2015,
+    "Records": "250 locations",
+    "Organization Type": "Hotel",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Internal Revenue Service",
+    "Year": 2015,
+    "Records": 720000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Landry's, Inc.",
+    "Year": 2015,
+    "Records": "500 locations",
+    "Organization Type": "Restaurant",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Medical Informatics Engineering",
+    "Year": 2015,
+    "Records": 3900000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Natural Grocers",
+    "Year": 2015,
+    "Records": "93 stores",
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "US Office of Personnel Management",
+    "Year": 2015,
+    "Records": 21500000,
+    "Organization Type": "Government",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Patreon",
+    "Year": 2015,
+    "Records": "2.3 million",
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Premera",
+    "Year": 2015,
+    "Records": 11000000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Scottrade",
+    "Year": 2015,
+    "Records": 4600000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Slack",
+    "Year": 2015,
+    "Records": 500000,
+    "Organization Type": "Tech",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Starwood Hotels",
+    "Year": 2015,
+    "Records": "54 locations",
+    "Organization Type": "Hotel",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Twitch.tv",
+    "Year": 2015,
+    "Records": "unknown",
+    "Organization Type": "Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "UCLA Medical Center, Santa Monica",
+    "Year": 2015,
+    "Records": 4500000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "VTech",
+    "Year": 2015,
+    "Records": 5000000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Walmart",
+    "Year": 2015,
+    "Records": "millions",
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Wendy's",
+    "Year": 2015,
+    "Records": "unknown",
+    "Organization Type": "Restaurant",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Xat.com",
+    "Year": 2015,
+    "Records": 6054459,
+    "Organization Type": "Web",
+    "Method": "social engineering"
+  },
+  {
+    "Entity": "AOL",
+    "Year": 2014,
+    "Records": 2400000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Community Health Systems",
+    "Year": 2014,
+    "Records": 4500000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Domino's Pizza (France)",
+    "Year": 2014,
+    "Records": 600000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "eBay",
+    "Year": 2014,
+    "Records": 145000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "European Central Bank",
+    "Year": 2014,
+    "Records": "unknown",
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Gmail",
+    "Year": 2014,
+    "Records": 5000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Home Depot",
+    "Year": 2014,
+    "Records": 56000000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "JP Morgan Chase",
+    "Year": 2014,
+    "Records": 76000000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Korea Credit Bureau",
+    "Year": 2014,
+    "Records": 20000000,
+    "Organization Type": "Financial",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "LexisNexis",
+    "Year": 2014,
+    "Records": 1000000,
+    "Organization Type": "Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "MacRumors.com",
+    "Year": 2014,
+    "Records": 860000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Mandarin Oriental Hotels",
+    "Year": 2014,
+    "Records": "10 locations",
+    "Organization Type": "Hotel",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Michaels",
+    "Year": 2014,
+    "Records": 3000000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Mozilla",
+    "Year": 2014,
+    "Records": 76000,
+    "Organization Type": "Web",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "NASDAQ",
+    "Year": 2014,
+    "Records": "unknown",
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Neiman Marcus",
+    "Year": 2014,
+    "Records": 1100000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "New York Taxis",
+    "Year": 2014,
+    "Records": 52000,
+    "Organization Type": "Transport",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Sony Pictures",
+    "Year": 2014,
+    "Records": "100 terabytes",
+    "Organization Type": "Media",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Supervalu",
+    "Year": 2014,
+    "Records": "200 stores",
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Target Corporation",
+    "Year": 2014,
+    "Records": 70000000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Trump Hotels",
+    "Year": 2014,
+    "Records": "8 locations",
+    "Organization Type": "Hotel",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Uber",
+    "Year": 2014,
+    "Records": 50000,
+    "Organization Type": "Tech",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "University of Maryland, College Park",
+    "Year": 2014,
+    "Records": 300000,
+    "Organization Type": "Academic",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "UPS",
+    "Year": 2014,
+    "Records": "51 locations",
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Yahoo",
+    "Year": 2014,
+    "Records": 500000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Adobe Systems",
+    "Year": 2013,
+    "Records": 152000000,
+    "Organization Type": "Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Advocate Medical Group",
+    "Year": 2013,
+    "Records": 4000000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Apple",
+    "Year": 2013,
+    "Records": 275000,
+    "Organization Type": "Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Bedford/St. Martin's",
+    "Year": 2013,
+    "Records": "unknown",
+    "Organization Type": "Retail",
+    "Method": "unknown"
+  },
+  {
+    "Entity": "Central Hudson Gas & Electric",
+    "Year": 2013,
+    "Records": 110000,
+    "Organization Type": "Energy",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Citigroup",
+    "Year": 2013,
+    "Records": 150000,
+    "Organization Type": "Financial",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Crescent Health Inc., Walgreens",
+    "Year": 2013,
+    "Records": 100000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "Drupal",
+    "Year": 2013,
+    "Records": 1000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Dun & Bradstreet",
+    "Year": 2013,
+    "Records": 1000000,
+    "Organization Type": "Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Evernote",
+    "Year": 2013,
+    "Records": 50000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Facebook",
+    "Year": 2013,
+    "Records": 6000000,
+    "Organization Type": "Web",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Florida Department of Juvenile Justice",
+    "Year": 2013,
+    "Records": 100000,
+    "Organization Type": "Government",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "Kirkwood Community College",
+    "Year": 2013,
+    "Records": 125000,
+    "Organization Type": "Academic",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Kroll Background America",
+    "Year": 2013,
+    "Records": 1000000,
+    "Organization Type": "Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Living Social",
+    "Year": 2013,
+    "Records": 50000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Nintendo",
+    "Year": 2013,
+    "Records": 240000,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "OVH",
+    "Year": 2013,
+    "Records": "undisclosed",
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Scribd",
+    "Year": 2013,
+    "Records": 500000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "SnapChat",
+    "Year": 2013,
+    "Records": 4700000,
+    "Organization Type": "Web, Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "South Africa police",
+    "Year": 2013,
+    "Records": 16000,
+    "Organization Type": "Government",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "TerraCom & YourTel",
+    "Year": 2013,
+    "Records": 170000,
+    "Organization Type": "Telecoms",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Tumblr",
+    "Year": 2013,
+    "Records": 65469298,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Twitter",
+    "Year": 2013,
+    "Records": 250000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Ubisoft",
+    "Year": 2013,
+    "Records": "unknown",
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Ubuntu",
+    "Year": 2013,
+    "Records": 2000000,
+    "Organization Type": "Tech",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Vodafone",
+    "Year": 2013,
+    "Records": 2000000,
+    "Organization Type": "Telecoms",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "Washington State court system",
+    "Year": 2013,
+    "Records": 160000,
+    "Organization Type": "Government",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Yahoo",
+    "Year": 2013,
+    "Records": 3000000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Yahoo Japan",
+    "Year": 2013,
+    "Records": 22000000,
+    "Organization Type": "Tech, Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Apple, Inc./BlueToad",
+    "Year": 2012,
+    "Records": 12367232,
+    "Organization Type": "Tech, Retail",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Barnes & Noble",
+    "Year": 2012,
+    "Records": "63 stores",
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Blizzard Entertainment",
+    "Year": 2012,
+    "Records": 14000000,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "California Department of Child Support Services",
+    "Year": 2012,
+    "Records": 800000,
+    "Organization Type": "Government",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Dropbox",
+    "Year": 2012,
+    "Records": "unknown",
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Emory Healthcare",
+    "Year": 2012,
+    "Records": 315000,
+    "Organization Type": "Healthcare",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Formspring",
+    "Year": 2012,
+    "Records": 420000,
+    "Organization Type": "Web",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Gamigo",
+    "Year": 2012,
+    "Records": 8000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Global Payments",
+    "Year": 2012,
+    "Records": 7000000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Greek government",
+    "Year": 2012,
+    "Records": 9000000,
+    "Organization Type": "Government",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Iranian banks (three: Saderat, Eghtesad Novin, and Saman)",
+    "Year": 2012,
+    "Records": 3000000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "KT Corporation",
+    "Year": 2012,
+    "Records": 8700000,
+    "Organization Type": "Telecoms",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "LinkedIn, eHarmony, Last.fm",
+    "Year": 2012,
+    "Records": 8000000,
+    "Organization Type": "Web",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Massive American business hack",
+    "Year": 2012,
+    "Records": 160000000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "US Medicaid",
+    "Year": 2012,
+    "Records": 780000,
+    "Organization Type": "Government, Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Militarysingles.com",
+    "Year": 2012,
+    "Records": 163792,
+    "Organization Type": "Web, Military",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "New York State Electric & Gas",
+    "Year": 2012,
+    "Records": 1800000,
+    "Organization Type": "Energy",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "Office of the Texas Attorney General",
+    "Year": 2012,
+    "Records": 6500000,
+    "Organization Type": "Government",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Rambler.ru",
+    "Year": 2012,
+    "Records": 98167935,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "South Carolina Government",
+    "Year": 2012,
+    "Records": 6400000,
+    "Organization Type": "Healthcare",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "Syrian government (Syria Files)",
+    "Year": 2012,
+    "Records": 2434899,
+    "Organization Type": "Government",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "TD Bank",
+    "Year": 2012,
+    "Records": 260000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Yahoo! Voices",
+    "Year": 2012,
+    "Records": 450000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Zappos",
+    "Year": 2012,
+    "Records": 24000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Accendo Insurance Co.",
+    "Year": 2011,
+    "Records": 175350,
+    "Organization Type": "Healthcare",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Bethesda Game Studios",
+    "Year": 2011,
+    "Records": 200000,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "China Software Developer Network",
+    "Year": 2011,
+    "Records": 6000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Chinese gaming websites (three: Duowan, 7K7K, 178.com)",
+    "Year": 2011,
+    "Records": 10000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Citigroup",
+    "Year": 2011,
+    "Records": 360083,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Countrywide Financial Corp",
+    "Year": 2011,
+    "Records": 2500000,
+    "Organization Type": "Financial",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "Eisenhower Medical Center",
+    "Year": 2011,
+    "Records": 514330,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "Health Net — IBM",
+    "Year": 2011,
+    "Records": 1900000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Honda Canada",
+    "Year": 2011,
+    "Records": 283000,
+    "Organization Type": "Retail",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Massachusetts Government",
+    "Year": 2011,
+    "Records": 210000,
+    "Organization Type": "Government",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Memorial Healthcare System",
+    "Year": 2011,
+    "Records": 102153,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Morgan Stanley Smith Barney",
+    "Year": 2011,
+    "Records": 34000,
+    "Organization Type": "Financial",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Nemours Foundation",
+    "Year": 2011,
+    "Records": 1055489,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Nexon Korea Corp",
+    "Year": 2011,
+    "Records": 13200000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "NHS",
+    "Year": 2011,
+    "Records": 8300000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Oregon Department of Transportation",
+    "Year": 2011,
+    "Records": "unknown",
+    "Organization Type": "Government",
+    "Method": "poor security"
+  },
+  {
+    "Entity": "Restaurant Depot",
+    "Year": 2011,
+    "Records": 200000,
+    "Organization Type": "Retail",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "San Francisco Public Utilities Commission",
+    "Year": 2011,
+    "Records": 180000,
+    "Organization Type": "Government",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Sega",
+    "Year": 2011,
+    "Records": 1290755,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Sony Online Entertainment",
+    "Year": 2011,
+    "Records": 24600000,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Sony Pictures",
+    "Year": 2011,
+    "Records": 1000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Sony PlayStation Network",
+    "Year": 2011,
+    "Records": 77000000,
+    "Organization Type": "Gaming",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Southern California Medical-Legal Consultants",
+    "Year": 2011,
+    "Records": 300000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Spartanburg Regional Healthcare System",
+    "Year": 2011,
+    "Records": 400000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "Steam",
+    "Year": 2011,
+    "Records": 35000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Stratfor",
+    "Year": 2011,
+    "Records": 935000,
+    "Organization Type": "Military",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Sutter Medical Center",
+    "Year": 2011,
+    "Records": 4243434,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "Tianya Club",
+    "Year": 2011,
+    "Records": 28000000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Tricare",
+    "Year": 2011,
+    "Records": 4901432,
+    "Organization Type": "Military, Healthcare",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "University of Wisconsin–Milwaukee",
+    "Year": 2011,
+    "Records": 73000,
+    "Organization Type": "Academic",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "U.S. Army",
+    "Year": 2011,
+    "Records": 50000,
+    "Organization Type": "Military",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "U.S. law enforcement (70 different agencies)",
+    "Year": 2011,
+    "Records": 123461,
+    "Organization Type": "Government",
+    "Method": "accidentally published"
+  },
+  {
+    "Entity": "Washington Post",
+    "Year": 2011,
+    "Records": 1270000,
+    "Organization Type": "Media",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Writerspace.com",
+    "Year": 2011,
+    "Records": 62000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Ankle & Foot Center of Tampa Bay, Inc.",
+    "Year": 2010,
+    "Records": 156000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "AT&T",
+    "Year": 2010,
+    "Records": 114000,
+    "Organization Type": "Telecoms",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Betfair",
+    "Year": 2010,
+    "Records": 2300000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Colorado government",
+    "Year": 2010,
+    "Records": 105470,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen computer"
+  },
+  {
+    "Entity": "Educational Credit Management Corporation",
+    "Year": 2010,
+    "Records": 3300000,
+    "Organization Type": "Financial",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Embassy Cables",
+    "Year": 2010,
+    "Records": 251000,
+    "Organization Type": "Government",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "Emergency Healthcare Physicians, Ltd.",
+    "Year": 2010,
+    "Records": 180111,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Federal Reserve Bank of Cleveland",
+    "Year": 2010,
+    "Records": 400000,
+    "Organization Type": "Financial",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Gawker",
+    "Year": 2010,
+    "Records": 1500000,
+    "Organization Type": "Web",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "JP Morgan Chase",
+    "Year": 2010,
+    "Records": 2600000,
+    "Organization Type": "Financial",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Lincoln Medical & Mental Health Center",
+    "Year": 2010,
+    "Records": 130495,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "New York City Health & Hospitals Corp.",
+    "Year": 2010,
+    "Records": 1700000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Ohio State University",
+    "Year": 2010,
+    "Records": 760000,
+    "Organization Type": "Academic",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Puerto Rico Department of Health",
+    "Year": 2010,
+    "Records": 515000,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "Seacoast Radiology, PA",
+    "Year": 2010,
+    "Records": 231400,
+    "Organization Type": "Healthcare",
+    "Method": "hacked"
+  },
+  {
+    "Entity": "South Shore Hospital, Massachusetts",
+    "Year": 2010,
+    "Records": 800000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "Triple-S Salud, Inc.",
+    "Year": 2010,
+    "Records": 398000,
+    "Organization Type": "Healthcare",
+    "Method": "lost / stolen media"
+  },
+  {
+    "Entity": "U.S. Army",
+    "Year": 2010,
+    "Records": 392000,
+    "Organization Type": "Government",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "U.S. government (United States diplomatic cables leak)",
+    "Year": 2010,
+    "Records": 260000,
+    "Organization Type": "Military",
+    "Method": "inside job"
+  },
+  {
+    "Entity": "Yale University",
+    "Year": 2010,
+    "Records": 43000,
+    "Organization Type": "Academic",
+    "Method": "accidentally published"
+  }
+]
